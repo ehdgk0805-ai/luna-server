@@ -1,0 +1,22 @@
+{
+  "version": "1.0.0",
+  "rss": "",
+  "servers": [
+    {
+      "id": "luna_world",
+      "name": "루나월드",
+      "description": "루나월드 개인 커스텀 런처입니다. 즐거운 모험 되세요!",
+      "icon": "https://helioslauncher.com",
+      "version": "1.21.10",
+      "address": "lunaworld.kr",
+      "discord": {
+        "clientId": "",
+        "smallImageKey": "",
+        "smallImageText": ""
+      },
+      "mainServer": true,
+      "autoconnect": false,
+      "modules": []
+    }
+  ]
+}
